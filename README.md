@@ -30,7 +30,7 @@
 
 ## Computer Science student and working as a Full Stack Developer.
  - 🔭  I'm looking to collaborate on projects to learn more and more.
-- 🖥️📱 Currently work in the mobile and desktop web development.
+- 🖥️📱 Currently work in the desktop web development.
 - 🤝 Open to partnership, contact us for more information
 
 <p align='center'>
