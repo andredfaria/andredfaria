@@ -34,11 +34,6 @@
 - 🤝 Open to partnership, contact us for more information
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andredfaria&hide=contribs,prs&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  
-</p>
-
-<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredfaria&layout=compact&theme=dark" width="350"></a>
   
 </p>
