@@ -9,7 +9,7 @@
 <p align='center'> 
 
  <a href="https://twitter.com/andredfaria">
-    <img src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-----%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/andre-de-faria/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
