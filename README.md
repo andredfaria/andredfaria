@@ -1,39 +1,76 @@
 <h1 align='center'>
-  I'm André De Faria 🤙👨‍💻
+  👋 Olá, <br>Eu sou André De Faria Carvalho 🤙👨‍💻
 </h1>
 
 <p align='center'>
-  A full stack developer from Minas Gerais, Brazil.
+  Desenvolvedor Full Stack de Minas Gerais, Brasil.
 </p>
+
+- 🔭 Estou em busca de colaborar em projetos para aprender cada vez mais.
+- 🖥️ Atualmente trabalho com desenvolvimento web para desktop.
+- 🤝 Aberto a parcerias, entre em contato para mais informações!
+
+## 📱 Redes sociais
 
 <p align='center'> 
-
- <a href="https://twitter.com/andredfaria">
-    <img src="https://img.shields.io/badge/--%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://x.com/andredfaria">
+    <img src="https://img.shields.io/badge/Twitter (X)-%230077B5.svg?&style=for-the-badge&logo=X&xol=white&color=black"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/andre-de-faria/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/andredefaria/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/andredefariacarvalho/">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   <a href="mailto:adfariacarvalho@gmail.com">
+  <a href="mailto:adfariacarvalho@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-
 </p>
 
-<br>
+## 💼 Experiência de trabalho
 
-## Computer Science student and working as a Full Stack Developer.
- - 🔭  I'm looking to collaborate on projects to learn more and more.
-- 🖥️📱 Currently work in the desktop web development.
-- 🤝 Open to partnership, contact us for more information
+Experiência profissional mais recente:
+
+[<img align="left" height="94px" width="94px" alt="O novo mercado" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq17CLNDBxWwnCSwKrY3Ph1EaSlHXfFck-zA&s"/>](https://onovomercado.com/)
+
+**Desenvolvedor Full Stack IA** \
+[**O Novo Mercado**](https://onovomercado.com/) • 2024 - atualemnte \
+Linguagens & Tecnologias: `VueJs`, `Bun JS`, `Java`\
+Projetos: [Painel](https://portal.onovomercado.com.br/), [Mercado de trabalho](<https://omercadodetrabalho.com/>)
+
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Weclever" src="https://media.licdn.com/dms/image/v2/C4E0BAQE2JqE5FJsDKA/company-logo_200_200/company-logo_200_200/0/1656681296757/wecleverco_logo?e=2147483647&v=beta&t=2uRl-fbRUXqnyDzb5vVvz9iecyQGGjYcKTkKmClm_ww"/>](https://weclever.com/)
+
+**Desenvolvedor Back-end Pleno** \
+[**Weclever**](https://weclever.com/) • 2020 - 2024 \
+Linguagens & Tecnologias: `Node JS`, `Python`, `VueJs`\
+Projetos: [Dash](https://dashboard.weclever.co/), [Admin](https://admin.weclever.co/signin)
+<br/>
+
+<br/>
+
+Para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação -
+[LinkedIn/andre-de-faria](https://www.linkedin.com/in/andre-de-faria/)
+
+---
+<div align="center">
+  <h3><b>Contagem de visitantes</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
+---
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredfaria&layout=compact&theme=dark" width="350"></a>
-  
+  <i>Vamos codar juntos! 🚀</i>
 </p>
