@@ -50,8 +50,8 @@ Projetos: [Painel](https://portal.onovomercado.com.br/), [Mercado de trabalho](<
 [**Weclever**](https://weclever.com/) • 2020 - 2024 \
 Linguagens & Tecnologias: `Node JS`, `Python`, `VueJs`\
 Projetos: [Dash](https://dashboard.weclever.co/), [Admin](https://admin.weclever.co/signin)
-<br/>
 
+<br/>
 <br/>
 
 Para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação -
