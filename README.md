@@ -5,7 +5,7 @@
 <p align='center'>
   Desenvolvedor Full Stack de Minas Gerais, Brasil.
 </p>
-
+ 
 - 🔭 Estou em busca de colaborar em projetos para aprender cada vez mais.
 - 🖥️ Atualmente trabalho com desenvolvimento web para desktop.
 - 🤝 Aberto a parcerias, entre em contato para mais informações!
