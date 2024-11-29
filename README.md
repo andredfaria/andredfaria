@@ -39,7 +39,7 @@ Experiência profissional mais recente:
 **Desenvolvedor Full Stack** \
 [**O Novo Mercado**](https://onovomercado.com/) • 2024 - atualemnte \
 Linguagens & Tecnologias: `VueJs`, `Bun JS`, `Java`\
-Projetos: [Painel](https://portal.onovomercado.com.br/), [Mercado de trabalho](<https://omercadodetrabalho.com/>)
+Projetos: [Portal](https://portal.onovomercado.com.br/), [Mercado de trabalho](<https://omercadodetrabalho.com/>)
 
 <br/>
 <br/>
