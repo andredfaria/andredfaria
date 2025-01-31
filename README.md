@@ -55,7 +55,7 @@ Projetos: [Dash](https://dashboard.weclever.co/), [Admin](https://admin.weclever
 <br/>
 
 Para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação -
-[LinkedIn/andre-de-faria](https://www.linkedin.com/in/andre-de-faria/)
+[LinkedIn](https://www.linkedin.com/in/andre-de-faria/)
 
 ---
 <div align="center">
