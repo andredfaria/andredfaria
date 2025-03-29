@@ -105,6 +105,6 @@ Para uma descrição mais detalhada da minha experiência de trabalho, educaçã
 ---
 
 <div align="center">
-  <h3>👀 Contagem de Visitantes</h3>
+  <h3>Contagem de Visitantes</h3>
   <img src="https://profile-counter.glitch.me/andredefaria/count.svg" alt="Número de visitantes no perfil" />
 </div>
