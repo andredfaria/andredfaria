@@ -1,20 +1,14 @@
 <h1 align='center'>
-  👋 Olá, <br>Eu sou André De Faria Carvalho 🤙👨‍💻
+  👋 Olá, eu sou o André De Faria Carvalho 🤙👨‍💻
 </h1>
 
 <p align='center'>
-  Desenvolvedor Full Stack de Minas Gerais, Brasil.
+  Desenvolvedor Full Stack apaixonado por tecnologia, de Minas Gerais, Brasil.
 </p>
- 
-- 🔭 Estou em busca de colaborar em projetos para aprender cada vez mais.
-- 🖥️ Atualmente trabalho com desenvolvimento web para desktop.
-- 🤝 Aberto a parcerias, entre em contato para mais informações!
 
-## 📱 Redes sociais
-
-<p align='center'> 
+<div align='center'>
   <a href="https://x.com/andredfaria">
-    <img src="https://img.shields.io/badge/Twitter (X)-%230077B5.svg?&style=for-the-badge&logo=X&xol=white&color=black"/>
+    <img src="https://img.shields.io/badge/Twitter (X)-%230077B5.svg?&style=for-the-badge&logo=X&color=black"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/andre-de-faria/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -28,49 +22,89 @@
   <a href="mailto:adfariacarvalho@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-</p>
-
-## 💼 Experiência de trabalho
-
-Experiência profissional mais recente:
-
-[<img align="left" height="94px" width="94px" alt="O novo mercado" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq17CLNDBxWwnCSwKrY3Ph1EaSlHXfFck-zA&s"/>](https://onovomercado.com/)
-
-**Desenvolvedor Full Stack** \
-[**O Novo Mercado**](https://onovomercado.com/) • 2024 - atualemnte \
-Linguagens & Tecnologias: `VueJs`, `Bun JS`, `Java`\
-Projetos: [Portal](https://portal.onovomercado.com.br/), [Mercado de trabalho](<https://omercadodetrabalho.com/>)
-
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Weclever" src="https://media.licdn.com/dms/image/v2/C4E0BAQE2JqE5FJsDKA/company-logo_200_200/company-logo_200_200/0/1656681296757/wecleverco_logo?e=2147483647&v=beta&t=2uRl-fbRUXqnyDzb5vVvz9iecyQGGjYcKTkKmClm_ww"/>](https://weclever.com/)
-
-**Desenvolvedor Back-end Pleno** \
-[**Weclever**](https://weclever.com/) • 2020 - 2024 \
-Linguagens & Tecnologias: `Node JS`, `Python`, `VueJs`\
-Projetos: [Dash](https://dashboard.weclever.co/), [Admin](https://admin.weclever.co/signin)
-
-<br/>
-<br/>
-
-Para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação -
-[LinkedIn](https://www.linkedin.com/in/andre-de-faria/)
-
----
-<div align="center">
-  <h3><b>Contagem de visitantes</b></h3>
 </div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+## 👨‍💻 Sobre mim
+
+- 🚀 Sempre em busca de novos desafios, colaborando em projetos inovadores para aprimorar minhas habilidades e aprender coisas novas.
+- 🖥️ Atualmente focado no desenvolvimento web, criando soluções eficientes e funcionais para desktop e outras plataformas.
+- 🤝 Estou aberto a parcerias e novas oportunidades de colaboração! Entre em contato para discutir como podemos trabalhar juntos em projetos incríveis.
+- 🎯 Apaixonado por inteligência artificial e tecnologias emergentes, sempre à procura de como integrar essas inovações no meu trabalho.
+
+## 🛠️ Tecnologias & Habilidades
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+</div>
+
+## 💼 Experiência Profissional
+
+<div>
+  <a href="https://onovomercado.com/">
+    <img align="left" height="94px" width="94px" alt="O novo mercado" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq17CLNDBxWwnCSwKrY3Ph1EaSlHXfFck-zA&s"/>
+  </a>
+  <div>
+    <strong>Desenvolvedor Full Stack</strong><br />
+    <a href="https://onovomercado.com/"><strong>O Novo Mercado</strong></a> • 2024 - atualmente<br />
+    Linguagens & Tecnologias: <code>VueJs</code>, <code>Bun JS</code>, <code>Java</code><br />
+    Projetos: <a href="https://portal.onovomercado.com.br/">Portal</a>, <a href="https://omercadodetrabalho.com/">Mercado de trabalho</a>
+  </div>
+</div>
+
+<br /><br />
+
+<div>
+  <a href="https://weclever.com/">
+    <img align="left" height="94px" width="94px" alt="Weclever" src="https://media.licdn.com/dms/image/v2/C4E0BAQE2JqE5FJsDKA/company-logo_200_200/company-logo_200_200/0/1656681296757/wecleverco_logo?e=2147483647&v=beta&t=2uRl-fbRUXqnyDzb5vVvz9iecyQGGjYcKTkKmClm_ww"/>
+  </a>
+  <div>
+    <strong>Desenvolvedor Back-end Pleno</strong><br />
+    <a href="https://weclever.com/"><strong>Weclever</strong></a> • 2020 - 2024<br />
+    Linguagens & Tecnologias: <code>Node JS</code>, <code>Python</code>, <code>VueJs</code><br />
+    Projetos: <a href="https://dashboard.weclever.co/">Dash</a>, <a href="https://admin.weclever.co/signin">Admin</a>
+  </div>
+</div>
+
+<br /><br />
+
+## 🚀 Projetos em Destaque
+
+<div>
+  <a href="https://www.concursy.com.br">
+    <img align="left" height="94px" width="94px" alt="Concursy" src="https://www.concursy.com.br/assets/logo-square.png"/>
+  </a>
+  <div>
+    <strong>Concursy - Simulados</strong><br />
+    Plataforma de venda de simulados online para concursos públicos.<br />
+    <a href="https://www.concursy.com.br">Visitar site</a>
+  </div>
+</div>
+
+<br /><br />
+
+<div>
+  <a href="https://qrscode.vercel.app/">
+    <img align="left" height="94px" width="94px" alt="QRCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Link_pra_pagina_principal_da_Wikipedia-PT_em_codigo_QR_b.svg/1200px-Link_pra_pagina_principal_da_Wikipedia-PT_em_codigo_QR_b.svg.png"/>
+  </a>
+  <div>
+    <strong>QRcode - Otimize seu QRcode</strong><br />
+    SaaS de gestão e otimização de QRcodes para empresas e profissionais.<br />
+    <a href="https://qrscode.vercel.app/">Visitar site</a>
+  </div>
+</div>
+
+<br /><br />
+
+Para uma descrição mais detalhada da minha experiência de trabalho, educação e certificações, acesse meu [LinkedIn](https://www.linkedin.com/in/andre-de-faria/).
 
 ---
 
-<p align='center'>
-  <i>Vamos codar juntos! 🚀</i>
-</p>
+<div align="center">
+  <h3>👀 Contagem de Visitantes</h3>
+  <img src="https://profile-counter.glitch.me/andredefaria/count.svg" alt="Número de visitantes no perfil" />
+</div>
