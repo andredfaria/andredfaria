@@ -45,6 +45,19 @@
 ## 💼 Experiência Profissional
 
 <div>
+  <a href="https://v4company.com/">
+    <img align="left" height="94px" width="94px" alt="O novo mercado" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGcjYW3fKV6gEYo8pGEU6s4kt5pP2Kyxbpw&s"/>
+  </a>
+  <div>
+    <strong>Especialista em Aplicações Tecnológicas e Inovação</strong><br/>
+    <a href="https://v4company.com/"><strong>V4 Company | Godoy Rosendo & Co</strong></a> • 2025 - Atuamente<br />
+    Tecnologias: <code>n8n</code>, <code>Evlotution API</code>, <code>Chatwoot</code><br />
+  </div>
+</div>
+
+<br /><br />
+
+<div>
   <a href="https://onovomercado.com/">
     <img align="left" height="94px" width="94px" alt="O novo mercado" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq17CLNDBxWwnCSwKrY3Ph1EaSlHXfFck-zA&s"/>
   </a>
@@ -60,7 +73,7 @@
 
 <div>
   <a href="https://weclever.com/">
-    <img align="left" height="94px" width="94px" alt="Weclever" src="https://media.licdn.com/dms/image/v2/C4E0BAQE2JqE5FJsDKA/company-logo_200_200/company-logo_200_200/0/1656681296757/wecleverco_logo?e=2147483647&v=beta&t=2uRl-fbRUXqnyDzb5vVvz9iecyQGGjYcKTkKmClm_ww"/>
+    <img align="left" height="94px" width="94px" alt="Weclever" src="./img/qrcode.png"/>
   </a>
   <div>
     <strong>Desenvolvedor Back-end Pleno</strong><br />
