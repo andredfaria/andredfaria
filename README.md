@@ -103,8 +103,3 @@
 Para uma descrição mais detalhada da minha experiência de trabalho, educação e certificações, acesse meu [LinkedIn](https://www.linkedin.com/in/andre-de-faria/).
 
 ---
-
-<div align="center">
-  <h3>Contagem de Visitantes</h3>
-  <img src="https://profile-counter.glitch.me/andredefaria/count.svg" alt="Número de visitantes no perfil" />
-</div>
