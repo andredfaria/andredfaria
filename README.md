@@ -73,7 +73,7 @@
 
 <div>
   <a href="https://weclever.com/">
-    <img align="left" height="94px" width="94px" alt="Weclever" src="./img/qrcode.png"/>
+    <img align="left" height="94px" width="94px" alt="Weclever" src="https://media.licdn.com/dms/image/v2/C4E0BAQE2JqE5FJsDKA/company-logo_200_200/company-logo_200_200/0/1656681296757/wecleverco_logo?e=2147483647&v=beta&t=2uRl-fbRUXqnyDzb5vVvz9iecyQGGjYcKTkKmClm_ww"/>
   </a>
   <div>
     <strong>Desenvolvedor Back-end Pleno</strong><br />
@@ -102,7 +102,7 @@
 
 <div>
   <a href="https://qrscode.vercel.app/">
-    <img align="left" height="94px" width="94px" alt="QRCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Link_pra_pagina_principal_da_Wikipedia-PT_em_codigo_QR_b.svg/1200px-Link_pra_pagina_principal_da_Wikipedia-PT_em_codigo_QR_b.svg.png"/>
+    <img align="left" height="94px" width="94px" alt="QRCode" src="./img/qrcode.png"/>
   </a>
   <div>
     <strong>QRcode - Otimize seu QRcode</strong><br />
