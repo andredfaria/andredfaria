@@ -64,7 +64,7 @@
   <div>
     <strong>Desenvolvedor Full Stack</strong><br />
     <a href="https://onovomercado.com/"><strong>O Novo Mercado</strong></a> • 2024 - 2025<br />
-    Linguagens & Tecnologias: <code>VueJs</code>, <code>Bun JS</code>, <code>Java</code><br />
+    Linguagens & Tecnologias: <code>ReactJs</code>, <code>VueJs</code>, <code>Bun JS</code>, <code>Java</code><br />
     Projetos: <a href="https://portal.onovomercado.com.br/">Portal</a>, <a href="https://omercadodetrabalho.com/">Mercado de trabalho</a>
   </div>
 </div>
