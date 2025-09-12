@@ -51,7 +51,7 @@
   <div>
     <strong>Especialista em Aplicações Tecnológicas e Inovação</strong><br/>
     <a href="https://v4company.com/"><strong>V4 Company | Godoy Rosendo & Co</strong></a> • 2025 - Atuamente<br />
-    Tecnologias: <code>n8n</code>, <code>Evlotution API</code>, <code>Chatwoot</code><br />
+    Tecnologias: <code>n8n</code>, <code>Evlotution API</code>, <code>Chatwoot</code>, <code>NextJS</code><br />
   </div>
 </div>
 
