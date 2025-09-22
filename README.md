@@ -46,6 +46,19 @@
 ## 💼 Experiência Profissional
 
 <div>
+  <a href="https://indominus.io/">
+    <img align="left" height="94px" width="94px" alt="O novo mercado" src="https://avatars.githubusercontent.com/u/222460766"/>
+  </a>
+  <div>
+    <strong>Desenvolvedor de Agentes Inteligentes & Automação</strong><br/>
+    <a href="https://indominus.io/"><strong>Indominus AI</strong></a> • 2025 - Atuamente<br />
+    Tecnologias: <code>n8n</code>, <code>NextJS</code>, <code>RAG</code><br />
+  </div>
+</div>
+
+<br /><br />
+
+<div>
   <a href="https://v4company.com/">
     <img align="left" height="94px" width="94px" alt="O novo mercado" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGcjYW3fKV6gEYo8pGEU6s4kt5pP2Kyxbpw&s"/>
   </a>
