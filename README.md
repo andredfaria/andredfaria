@@ -45,6 +45,18 @@
 </div>
 
 ## 💼 Experiência Profissional
+<div>
+  <a href="https://v4company.com/">
+    <img align="left" height="94px" width="94px" alt="O novo mercado" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGcjYW3fKV6gEYo8pGEU6s4kt5pP2Kyxbpw&s"/>
+  </a>
+  <div>
+    <strong>Especialista em Aplicações Tecnológicas e Inovação</strong><br/>
+    <a href="https://v4company.com/"><strong>V4 Company | Godoy Rosendo & Co</strong></a> • 2025 - Atuamente<br />
+    Tecnologias: <code>n8n</code>, <code>Evlotution API</code>, <code>Chatwoot</code>, <code>NextJS</code><br />
+  </div>
+</div>
+
+<br /><br />
 
 <div>
   <a href="https://indominus.io/">
@@ -54,19 +66,6 @@
     <strong>Desenvolvedor de Agentes Inteligentes & Automação</strong><br/>
     <a href="https://indominus.io/"><strong>Indominus AI</strong></a> • 2025 - 2026<br />
     Tecnologias: <code>n8n</code>, <code>NextJS</code>, <code>RAG</code><br />
-  </div>
-</div>
-
-<br /><br />
-
-<div>
-  <a href="https://v4company.com/">
-    <img align="left" height="94px" width="94px" alt="O novo mercado" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGcjYW3fKV6gEYo8pGEU6s4kt5pP2Kyxbpw&s"/>
-  </a>
-  <div>
-    <strong>Especialista em Aplicações Tecnológicas e Inovação</strong><br/>
-    <a href="https://v4company.com/"><strong>V4 Company | Godoy Rosendo & Co</strong></a> • 2025 - Atuamente<br />
-    Tecnologias: <code>n8n</code>, <code>Evlotution API</code>, <code>Chatwoot</code>, <code>NextJS</code><br />
   </div>
 </div>
 
