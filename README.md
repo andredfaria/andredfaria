@@ -23,6 +23,8 @@
   <a href="mailto:adfariacarvalho@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </div>
 
 ## 👨‍💻 Sobre mim
@@ -51,7 +53,7 @@
   </a>
   <div>
     <strong>Desenvolvedor de Agentes Inteligentes & Automação</strong><br/>
-    <a href="https://indominus.io/"><strong>Indominus AI</strong></a> • 2025 - Atuamente<br />
+    <a href="https://indominus.io/"><strong>Indominus AI</strong></a> • 2025 - 2026<br />
     Tecnologias: <code>n8n</code>, <code>NextJS</code>, <code>RAG</code><br />
   </div>
 </div>
