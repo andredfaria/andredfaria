@@ -46,8 +46,21 @@
 
 ## 💼 Experiência Profissional
 <div>
+  <a href="https://ed.dev.br/">
+    <img align="left" height="94px" width="94px" alt="ED" src="https://media.licdn.com/dms/image/v2/C4D0BAQFKGypsc3MBuA/company-logo_200_200/company-logo_200_200/0/1639750581264/somosed_logo?e=1777507200&v=beta&t=MT2VqchO9VSod9Xqm7rNnd9LxZ0jlvQSO21qvMPBCnE"/>
+  </a>
+  <div>
+    <strong>Engenheiro de Automações e Agentes de IA Sênior</strong><br/>
+    <a href="https://v4company.com/"><strong>ed</strong></a> • 2026 - Atuamente<br />
+    Tecnologias: <code>n8n</code>, <code>Azure</code>, <code>Gen IA</code>, <code>Agentes de IA</code><br />
+  </div>
+</div>
+
+<br /><br />
+
+<div>
   <a href="https://v4company.com/">
-    <img align="left" height="94px" width="94px" alt="O novo mercado" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGcjYW3fKV6gEYo8pGEU6s4kt5pP2Kyxbpw&s"/>
+    <img align="left" height="94px" width="94px" alt="V4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGcjYW3fKV6gEYo8pGEU6s4kt5pP2Kyxbpw&s"/>
   </a>
   <div>
     <strong>Especialista em Aplicações Tecnológicas e Inovação</strong><br/>
