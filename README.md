@@ -47,7 +47,7 @@
 ## 💼 Experiência Profissional
 <div>
   <a href="https://ed.dev.br/">
-    <img align="left" height="94px" width="94px" alt="ED" src="https://media.licdn.com/dms/image/v2/C4D0BAQFKGypsc3MBuA/company-logo_200_200/company-logo_200_200/0/1639750581264/somosed_logo?e=1777507200&v=beta&t=MT2VqchO9VSod9Xqm7rNnd9LxZ0jlvQSO21qvMPBCnE"/>
+    <img align="left" height="94px" width="94px" alt="ED" src="https://ed.dev.br/data/files/ED/B2/BC/58/5FC2091051FD7009600808A8/logo-ed.png"/>
   </a>
   <div>
     <strong>Engenheiro de Automações e Agentes de IA Sênior</strong><br/>
